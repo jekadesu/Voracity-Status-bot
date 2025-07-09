@@ -3,18 +3,18 @@
         "presence": {
             "status": "online",
             "activities": [{
-                "name": "Voracity SMP",
+                "name": "Hypixel Server",
                 "type": "WATCHING"
             }]
         }
     },
     "minecraft": {
         "servers": [{
-            "name": "VORACITY",
-            "ip": "play.voracity.my.id",
-            "port": 19132,
-            "channelId": "1362303638478782567",
-            "messageId": "1385865992219000915",
+            "name": "Hypixel",
+            "ip": "hypixel.net",
+            "port": 25565,
+            "channelId": "1361757965014798526",
+            "messageId": "1361782035923992848",
             "updateInterval": 30000,
             "display": {
                 "type": "banner",
@@ -38,8 +38,8 @@
         },
         "title": "🎮 Minecraft Server Status",
         "footer": {
-            "text": "",
-            "iconURL": ""
+            "text": "Made with ❤️ by Team BLK",
+            "iconURL": "https://github.com/BLKOFFICIAL.png"
         }
     },
     "credits": {
