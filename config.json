@@ -13,7 +13,8 @@
             "name": "VORACITY",
             "ip": "play.voracity.my.id",
             "port": 19132,
-            "channelId": "1385865992219000915",
+            "channelId": "1362303638478782567",
+            "messageId": "1385865992219000915",
             "updateInterval": 30000,
             "display": {
                 "type": "banner",
