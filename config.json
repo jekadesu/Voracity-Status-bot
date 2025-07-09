@@ -13,8 +13,8 @@
             "name": "Hypixel",
             "ip": "hypixel.net",
             "port": 25565,
-            "channelId": "1361757965014798526",
-            "messageId": "1361782035923992848",
+            "channelId": "1362303638478782567",
+            "messageId": "1385865992219000915",
             "updateInterval": 30000,
             "display": {
                 "type": "banner",
